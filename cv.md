@@ -21,3 +21,10 @@ _I feel that my workplace doesn't give me some challenge, i don't use all of my 
     }
     let d = pow(c);
 ```
+## Experience
+_Since June 1 i have been working in web studio "dessites". In my work i use css, html and js._
+## Education
+* Belarusian-Russian University
+* THE ROLLING SCOPES SCHOOL "REACT 2021 Q1 (JAVASCRIPT)"
+## English
+A1 continue studying
